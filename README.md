@@ -45,7 +45,7 @@ $ git clone https://github.com/marchetti2/RNFirstApp.git && cd RNFirstApp
 $ yarn
 ```
 
-** if you are using macOS: **
+**if you are using macOS:**
 
 ```bash
 $ cd ios
@@ -55,14 +55,14 @@ $ yarn ios --simulator="iPhone 11"
 ##choose the simulator you are using. in this example is iphone 11.
 ```
 
-** if you are using android: **
+**if you are using android:**
 
 ```bash
 $ cd ios
 $ yarn android
 ```
 
-** Well done, project is started!**
+**Well done, project is started!**
 
 <h2 id="license">License</h2>
 
