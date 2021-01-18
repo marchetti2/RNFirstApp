@@ -29,9 +29,9 @@ the application adds gitihub users on the main screen, where you can access the 
 
 <h4>Requirements</h4>
 
-- [Git](https://classic.yarnpkg.com/) 
-- [Node.js](https://classic.yarnpkg.com/) 
-- [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
+- [Git](https://git-scm.com) 
+- [Node.js](https://nodejs.org/en/) 
+- [Yarn](https://classic.yarnpkg.com/)
 
 **Clone the project and access the folder**
 
