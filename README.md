@@ -62,7 +62,6 @@ $ yarn ios --simulator="iPhone 11"
 **if you are using android:**
 
 ```bash
-$ cd ios
 $ yarn android
 ```
 
