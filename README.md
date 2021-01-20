@@ -1,10 +1,12 @@
-<h2>RNFirstApp</h2>
-
+<h2>About</h2>
 First application created in the GoStack course by RocketSeat(old journey).
 the application adds gitihub users on the main screen, where you can access the profile. For the syntax of the code in this project, components with state and life cycle with componentDidMount were used. PropTypes was also used for typing.
+
 <p align="center">
- <a href="#technologies">Technologies</a> | <a href="#started">Getting started</a> | <a href="#license">License</a>
+ <a href="#screens">Screens</a> | <a href="#technologies">Technologies</a> | <a href="#started">Getting started</a> | <a href="#license">License</a>
 </p>
+
+<h2 id="screens">Screens</h2>
 
 <p align="center">
   <img width="50%" src="https://media.giphy.com/media/882b98yr9LAoQLHDtu/giphy.gif">
