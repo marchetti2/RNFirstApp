@@ -42,7 +42,7 @@ the application adds gitihub users on the main screen, where you can access the 
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/marchetti2/RNFirstApp.git && cd RNFirstApp
+$ git clone https://github.com/marchetti2/github-user-info-react-native.git && cd github-user-info-react-native
 ```
 
 **Install the dependencies**
